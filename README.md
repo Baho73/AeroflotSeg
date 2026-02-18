@@ -1,5 +1,7 @@
 # AeroflotSeg
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-CV-EE4C2C?logo=pytorch) ![License: MIT](https://img.shields.io/github/license/Baho73/AeroflotSeg)
+
 Пайплайн сегментации объектов на фотографиях для Аэрофлота. Задача — точно вырезать металлические инструменты и детали с фона, включая объекты с бликами и тонкими кончиками.
 
 ## Пайплайн
